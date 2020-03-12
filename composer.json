@@ -1,0 +1,12 @@
+{
+    "name": "nokobo/loft-homework-06",
+    "authors": [
+        {
+            "name": "Kurmanbek Nurmatov",
+            "email": "nokobo.prog@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^7.1"
+    }
+}
